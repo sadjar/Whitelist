@@ -1,0 +1,4 @@
+name: Whitelist
+main: com.sadjar.whitelist.Main
+version: 1.0.0
+description: Whitelist server when plugin is activated!
